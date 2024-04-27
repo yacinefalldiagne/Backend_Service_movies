@@ -1,0 +1,25 @@
+[   
+    {
+        "id":1,
+        "title": "Legende d automne",
+        "release":1987
+    },
+    {
+        "id":2,
+        "title":"Identify",
+        "release":1998
+    },
+    {
+        "id":3,
+        "title":"La Faille",
+        "release":2003
+    },
+    {
+        "id":4,
+        "title":"All of us are death",
+        "release":2022
+    }
+
+
+
+]
